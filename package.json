@@ -1,0 +1,35 @@
+{
+  "name": "webtorrent-webui-hybrid",
+  "version": "0.0.1",
+  "description": "Hybrid version of webtorrent-webui",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pldubouilh/webtorrent-webui-hybrid.git"
+  },
+  "bin": {
+    "webtorrent-webui-hybrid": "./app.js"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "keywords": [
+    "webtorrent",
+    "bittorrent",
+    "remote",
+    "torrent"
+  ],
+  "author": "pldubouilh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pldubouilh/webtorrent-webui-hybrid/issues"
+  },
+  "homepage": "https://github.com/pldubouilh/webtorrent-webui-hybrid#readme",
+  "dependencies": {
+    "webtorrent-webui": "0.0.11",
+    "webtorrent-hybrid": "1.0.6"
+  }
+}
