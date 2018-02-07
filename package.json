@@ -1,6 +1,6 @@
 {
   "name": "webtorrent-webui-hybrid",
-  "version": "0.0.13",
+  "version": "0.0.15",
   "description": "Hybrid version of webtorrent-webui",
   "main": "app.js",
   "scripts": {
@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/pldubouilh/webtorrent-webui-hybrid#readme",
   "dependencies": {
-    "webtorrent-webui": "0.0.13",
+    "webtorrent-webui": "^0.0.14",
     "webtorrent-hybrid": "1.0.6"
   }
 }
