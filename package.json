@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/pldubouilh/webtorrent-webui-hybrid#readme",
   "dependencies": {
-    "webtorrent-webui": "^0.0.14",
-    "webtorrent-hybrid": "1.0.6"
+    "webtorrent-webui": "^0.0.16",
+    "webtorrent-hybrid": "4.0.1"
   }
 }
